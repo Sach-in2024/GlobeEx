@@ -1,9 +1,8 @@
 
 # 🌐 GlobeEx
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue)](https://www.python.org/) 
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.25-orange)](https://streamlit.io/) 
-[![ExchangeRate API](https://img.shields.io/badge/ExchangeRate-API-1b1a2941d-blue)](https://www.exchangerate-api.com/)
+<img width="932" height="672" alt="Screenshot 2025-10-23 173205" src="https://github.com/user-attachments/assets/614509f4-230c-4abd-be68-12f2698e8158" />
+
 
 ## Overview
 **GlobeEx** is a real-time AI-powered currency converter that allows users to seamlessly convert between global currencies. Built with **Streamlit** and integrated with **LangChain + ChatGroq**, GlobeEx delivers instant, reliable conversions using the **ExchangeRate-API**. Its intuitive UI ensures a smooth user experience for both desktop and mobile users.
@@ -16,12 +15,6 @@
 - Sleek and modern **Streamlit UI** with responsive layout.  
 - AI-powered backend using **LangChain + ChatGroq** (future enhancements).  
 - Reliable currency conversion with **ExchangeRate-API**.  
-
----
-
-## Screenshots
-![Screenshot1](screenshots/screenshot1.png)  
-![Screenshot2](screenshots/screenshot2.png)  
 
 ---
 
